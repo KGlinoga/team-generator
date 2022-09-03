@@ -10,8 +10,6 @@ const generateTeam = require("./src/template.js")
 
 teamArray = [];
 
-
-
 function runApp() {
 
     function createTeam() {
